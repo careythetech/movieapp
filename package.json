@@ -1,0 +1,20 @@
+{
+  "name": "movieapp",
+  "version": "1.0.0",
+  "description": "free movies",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/careythetech/movieapp.git"
+  },
+  "author": "Carey Brock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/careythetech/movieapp/issues"
+  },
+  "homepage": "https://github.com/careythetech/movieapp#readme"
+}
